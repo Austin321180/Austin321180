@@ -18,4 +18,4 @@ Apasionado por el desarrollo Backend, la arquitectura de software y la creación
 
 ### 📫 Contacto
 - 📧 [austinalvarez321@gmail.com](mailto:austinalvarez321@gmail.com)
-- 💼 [LinkedIn](TU_LINK_DE_LINKEDIN_AQUÍ)
+- 💼 [LinkedIn](https://www.linkedin.com/in/austin-alvarez-66201736a/)
