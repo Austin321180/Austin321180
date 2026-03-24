@@ -12,9 +12,6 @@ Apasionado por el desarrollo Backend, la arquitectura de software y la creación
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 📺 Mis Canales de YouTube
-- **AustinDev**: Programación e IA.
-- **Hacks de Riqueza**: Educación financiera.
-- **Austin Chronicles**: Gaming.
 
 ### 📫 Contacto
 - 📧 [austinalvarez321@gmail.com](mailto:austinalvarez321@gmail.com)
